@@ -1,0 +1,74 @@
+.body
+{
+    background-color: white;
+    margin: 0;
+}
+
+.contenedor1
+{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+
+.cuadrado
+{
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.cuadradochico
+{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.rectangulochico
+{
+    background-color: blue;
+    width: 100%;
+    height: 2.4vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.contenedor2{
+    position: absolute;
+    top: 30%;
+    left: 230%;
+}
+
+.cuadrado2{
+    background-color: rgb(241, 113, 113);
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.cuadradochico2
+{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.rectangulochico2{
+    background-color: red;
+    width: 100%;
+    height: 2.4vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
