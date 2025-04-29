@@ -207,3 +207,115 @@
     top: 0;
     left: 0;
 }
+
+.arriba{
+    position: absolute;
+    top: -800%;
+    left: -1600%; 
+}
+
+.rectangulogrnde{
+    background-color: rgb(253, 200, 100);
+    width: 1400px;
+    height: 170px;
+    position: relative;
+}
+
+.cuadradoarriba{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20%;
+    left: 27%;
+}
+
+.rectanguloarriba{
+    background-color: orange;
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    top: 0%;
+    left: 200%;
+} 
+
+.lineaarriba1{
+    background-color: white;
+    width: 300px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 1%;
+}
+
+.lineaarriba2{
+    background-color: white;
+    width: 300px;
+    height: 5px;
+    position: absolute;
+    top: 400%;
+    left: 0%;
+}
+
+.lineaarriba3{
+    background-color: white;
+    width: 300px;
+    height: 5px;
+    position: absolute;
+    top: 400%;
+    left: 0%;
+}
+
+.lineaarriba4{
+    background-color: white;
+    width: 150px;
+    height: 5px;
+    position: absolute;
+    top: 400%;
+    left: 0%;
+}
+
+.rectanguloabajo{
+    background-color: rgb(216, 214, 214);
+    width: 1400px;
+    height: 100px;
+    position: relative;
+    top: 8400%;
+    left: -190%;
+}
+
+.rectangulochicoabajo1{
+    background-color: rgb(124, 118, 118);
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    top: 35%;
+    left: 26%;  
+}
+
+.rectangulochicoabajo2{
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    top: 170%;
+    left: 0%;
+}
+
+.rectangulochicoabajo3{
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 0%;
+}
+
+.rectangulochicoabajo4{
+    background-color: white;
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 25%;
+}
