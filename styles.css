@@ -319,3 +319,75 @@
     top: 250%;
     left: 25%;
 }
+
+.rectangulochicoabajo1-1{
+    background-color: rgb(124, 118, 118);
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    top: -830%;
+    left: 355%;  
+}
+
+.rectangulochicoabajo2-1{
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    top: 170%;
+    left: 0%;
+}
+
+.rectangulochicoabajo3-1{
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 0%;
+}
+
+.rectangulochicoabajo4-1{
+    background-color: white;
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 25%;
+}
+
+.rectangulochicoabajo1-2{
+    background-color: rgb(124, 118, 118);
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    top: -830%;
+    left: 355%;  
+}
+
+.rectangulochicoabajo2-2{
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    top: 170%;
+    left: 0%;
+}
+
+.rectangulochicoabajo3-2{
+    background-color: white;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 0%;
+}
+
+.rectangulochicoabajo4-2{
+    background-color: white;
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    top: 250%;
+    left: 25%;
+}
